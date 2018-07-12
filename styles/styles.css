@@ -197,9 +197,9 @@ button{
 /*
       ***FOOTER***
 */
-footer .footer{
+#footer{
   background-color: #005791;
-  color: white;
+  color: black;
 }
 .footerLinks a{
   padding: 1% 2%;
